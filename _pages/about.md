@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Economics at Harvard University, focusing on economic history and political economy. A list of research projects can be found [here](research).
+I am a PhD student in Economics at University of Illinois Chicago, focusing on applied Macroeconomics, public economics and political economy. A list of my research projects can be found [here](research).
 
 My cv can be found [here](files/cv_weigand.pdf).

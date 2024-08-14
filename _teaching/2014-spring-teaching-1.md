@@ -1,5 +1,5 @@
 ---
-title: "Econ 300 Econometrics"
+title: "Graduate Instructor"
 collection: teaching
 type: "Graduate Instructor"
 permalink: /teaching/2023-spring-teaching-1

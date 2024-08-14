@@ -7,21 +7,13 @@ author_profile: false
 
 ### Working Papers
 
-[The Rise of Fiscal Capacity: Administration and State Consolidation in the Holy Roman Empire](../files/fiscal_capacity.pdf) (with Davide Cantoni and Cathrin Mohr)
 
-<sub>Conditionally accepted, _Econometrica_</sub>
+[Can Aggregate Special Items Aid in Predicting Future Inflation?](../files/directories.pdf) (with Arthur Pellenq)
 
-[City Directories as a Source of Historical Microdata: Progress Report](../files/directories.pdf) (with Davide Cantoni and Mathias Bühler)
-
-[Individualism, Identity, and Institutional Change: Evidence from First Names in Germany, 1700–1850](../files/identity.pdf) (with Davide Cantoni and Cathrin Mohr) 
+[New age Pension Reforms and Household Consumption: Evidence from India](../files/identity.pdf) 
 
 
 ### Work in Progress
 
-How Autocracies Form: State Capacity, Absolutism, and the Thirty Years' War (with Luis Bosshart)
+[Political Dynamics and Development: Effects of party Affiliation, Re-election, and MLA Concentration in India] 
 
-The German Colonial Enterprise, 1897--1914
-
-Spatial Sorting in German Cities, 1935--1975
-
-Epidemics and Public Health Provision in Early Modern Europe (with Davide Cantoni and Maria Waldinger)

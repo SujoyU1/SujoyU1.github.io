@@ -15,5 +15,5 @@ author_profile: false
 
 ### Work in Progress
 
-[Political Dynamics and Development: Effects of party Affiliation, Re-election, and MLA Concentration in India] 
+Political Dynamics and Development: Effects of party Affiliation, Re-election, and MLA Concentration in India 
 

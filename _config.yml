@@ -80,7 +80,6 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Sujoy Upadhyay"
   avatar           : "Profile pic.JPG"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "Chicago, Illinois"

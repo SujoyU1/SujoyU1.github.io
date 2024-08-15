@@ -1,12 +1,13 @@
 # main links links
 main:
 
-  - title: "CV"
-    url: /Sujoy_Upadhyay_resume_25.pdf/
     
   - title: "Research"
     url: /research/
 
   - title: "Teaching"
     url: /uic_teaching/
-
+   
+  - title: "Presentation and Awards"
+    url: /Sujoy_Upadhyay_resume_25.pdf/
+  

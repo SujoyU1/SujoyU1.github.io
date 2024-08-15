@@ -11,6 +11,6 @@ author_profile: false
 
 ## <span style="color: lightblue;">Graduate Teaching Assistant</span>
 - **ECON 221: Macroeconomics -Theory & Applications** (Spring 2022)
-- **ECON 121: Principles of Macroeconomics** (Fall 2021 and Spring 2022 )
+- **ECON 121: Principles of Macroeconomics** (Fall 2021, Spring 2022 )
 - **ECON 120: Principles of Microeconomics** (Fall 2020, Spring 2021)
   

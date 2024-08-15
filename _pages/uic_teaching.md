@@ -4,7 +4,6 @@ title: "Teaching"
 permalink: /uic_teaching/
 author_profile: false
 ---
-<h2 style="color: blue;">Teaching</h2>
 
 ## <span style="color: blue;">Graduate Instructor</span>
 - **Econ 300: Econometrics** (Spring 2022 and Spring 2023)

@@ -12,4 +12,4 @@ I am a PhD candidate in Economics at the University of Illinois Chicago, special
 
 I will be available for employment opportunities beginning in the fall 2025 - spring 2026 recruitment cycle. Please feel free to reach out to me for any inquiries.
 
-My cv can be found [here](files/Sujoy_Upadhyay_resume_25.pdf).
+Please find my cv [here](files/Sujoy_Upadhyay_resume_25.pdf).

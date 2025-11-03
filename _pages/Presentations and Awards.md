@@ -6,6 +6,8 @@ author_profile: false
 ---
 
 ## <span style="color: lightblue;">Presentations</span>
+
+-  Illinois Midwest Association Conference, Chicago (24th October, 2025)
 -  Recent Developments in Economics Research: Theory and Evience Conference at Jawaharlal Nehru University, New Delhi (8th March, 2024)
 -  Deparmental Seminar, University of Illinois Chicago ( 29th November, 2023)
 -  Deparmental Seminar, University of Illinois Chicago ( 29th March, 2023)

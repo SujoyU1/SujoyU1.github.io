@@ -8,7 +8,7 @@ author_profile: false
 ### Working Papers
 
 [Does Vertical Political Alignment Impact Local Economic Growth?
-Night-Lights Evidence from India](../files/JMP_Paper_Sujoy_Upadhyay.pdf) (Job market paper)
+Night-Lights Evidence from India](../files/JMP_Paper_Sujoy_Upadhyay.pdf) *(Job market paper)* [Slides](../files/EARL_Slides.pdf)
 
 [Can Aggregate Special Items Aid in Predicting Future Inflation?](../files/Special_items_inflation_forecasting.pdf) (with Arthur Pellenq)
 

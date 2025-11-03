@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics at the University of Illinois Chicago, specializing in applied macroeconomics, public economics, and political economy. 
+Thank you for visiting my website! I am a PhD candidate in Economics at the University of Illinois Chicago, specializing in political economy, developkent and public economics. 
 
 I will be available for employment opportunities beginning in the fall 2025 - spring 2026 recruitment cycle. Please feel free to reach out to me for any inquiries.
 
-Please find my cv [here](files/Sujoy_Upadhyay_resume_25.pdf).
+Please find my cv [here](files/Academic_cv_Sujoy_Upadhyay.pdf).

@@ -15,7 +15,4 @@ Night-Lights Evidence from India](../files/JMP_Paper_Sujoy_Upadhyay.pdf) (Job ma
 [New age Pension Reforms and Household Consumption: Evidence from India](../files/Sujoy_Upadhyay_3rd_year_paper.pdf) 
 
 
-### Work in Progress
-
-Political Dynamics and Development: Effects of party Affiliation, Re-election, and MLA Concentration in India 
 

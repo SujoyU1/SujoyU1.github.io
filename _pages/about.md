@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thank you for visiting my website! I am a PhD candidate in Economics at the University of Illinois Chicago, specializing in political economy, developkent and public economics. 
+Thank you for visiting my website! I am a PhD candidate in Economics at the University of Illinois Chicago, specializing in political economy, development and public economics. 
 
 I will be available for employment opportunities beginning in the fall 2025 - spring 2026 recruitment cycle. Please feel free to reach out to me for any inquiries.
 

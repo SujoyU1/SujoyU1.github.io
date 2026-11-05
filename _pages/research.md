@@ -7,8 +7,21 @@ author_profile: false
 
 ### Working Papers
 
+**[The Downside of Winning: Parliamentary Victories and Subsequent State Elections in India](../files/The_Downside_of_Winning_Sujoy_Upadhyay.pdf) (Job market paper)**
+
+<details>
+<summary><strong>Abstract</strong></summary>
+
+This paper examines whether winning a seat in India’s national parliament helps a party in the next state assembly election. India’s nested electoral geography makes this question tractable: each parliamentary constituency comprises several assembly constituencies, which allows a party’s parliamentary result to be linked to its subsequent assembly performance within the same territory. Using a regression discontinuity design that compares parties narrowly winning and narrowly losing parliamentary contests between 2004 and 2019, I find that a narrow victory reduces the party’s share of assembly seats in that constituency by 8 to 9 percentage points, or roughly 0.6 of the seven assembly seats in a typical constituency. The estimate is robust to alternative bandwidths, control sets, and adjustment for the party’s prior assembly performance, and in the full pooled sample to a local quadratic specification and state and year fixed effects. The effect on aggregate vote share is statistically indistinguishable from zero, but the confidence interval admits a decline of nearly three percentage points, and simulations based on observed segment margins show that a decline of this magnitude can account for most of the seat loss under first-past-the-post rules. Winning parties do not detectably reduce the number of assembly seats they contest or field less experienced candidates; rather, their win rate in contested seats declines. Taken together, the findings document an anti-coattail effect in Indian federal politics: a narrow parliamentary victory weakens the party’s subsequent position in state elections within the same constituency.
+
+</details>
+
+---
+
+
+
 **[Does Vertical Political Alignment Impact Local Economic Growth?
-Night-Lights Evidence from India](../files/JMP_Paper_Sujoy_Upadhyay.pdf) (Job market paper)**  
+Night-Lights Evidence from India](../files/JMP_Paper_Sujoy_Upadhyay.pdf) **  
 [Slides](../files/EARL_Slides.pdf)
 
 <details>

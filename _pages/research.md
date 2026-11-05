@@ -7,7 +7,7 @@ author_profile: false
 
 ### Working Papers
 
-**[The Downside of Winning: Parliamentary Victories and Subsequent State Elections in India](../files/The_Downside_of_Winning_Sujoy_Upadhyay.pdf) (Job market paper)**
+**1. [The Downside of Winning: Parliamentary Victories and Subsequent State Elections in India](../files/The_Downside_of_Winning_Sujoy_Upadhyay.pdf) (Job market paper)**
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -20,7 +20,7 @@ This paper examines whether winning a seat in India’s national parliament help
 
 
 
-**[Does Vertical Political Alignment Impact Local Economic Growth? Night-Lights Evidence from India](../files/JMP_Paper_Sujoy_Upadhyay.pdf)**  
+**2. [Does Vertical Political Alignment Impact Local Economic Growth? Night-Lights Evidence from India](../files/JMP_Paper_Sujoy_Upadhyay.pdf)**  
 [Slides](../files/EARL_Slides.pdf)
 
 <details>
@@ -38,7 +38,7 @@ I find that alignment has a precisely estimated zero effect on night-lights grow
 
 ---
 
-**[Can Aggregate Special Items Aid in Predicting Future Inflation?](../files/Special_items_inflation_forecasting.pdf)**  
+**3. [Can Aggregate Special Items Aid in Predicting Future Inflation?](../files/Special_items_inflation_forecasting.pdf)**  
 (with Arthur Pellenq)
 
 <details>
@@ -52,7 +52,7 @@ We leverage the informational content of special items, which respond promptly t
 
 ---
 
-**[New Age Pension Reforms and Household Consumption: Evidence from India](../files/Sujoy_Upadhyay_3rd_year_paper.pdf)**
+**4. [New Age Pension Reforms and Household Consumption: Evidence from India](../files/Sujoy_Upadhyay_3rd_year_paper.pdf)**
 
 <details>
 <summary><strong>Abstract</strong></summary>

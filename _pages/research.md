@@ -21,7 +21,7 @@ This paper examines whether winning a seat in India’s national parliament help
 
 
 **[Does Vertical Political Alignment Impact Local Economic Growth?
-Night-Lights Evidence from India](../files/JMP_Paper_Sujoy_Upadhyay.pdf) **  
+Night-Lights Evidence from India](../files/JMP_Paper_Sujoy_Upadhyay.pdf)**  
 [Slides](../files/EARL_Slides.pdf)
 
 <details>

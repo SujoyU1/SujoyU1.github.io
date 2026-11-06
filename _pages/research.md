@@ -7,7 +7,7 @@ author_profile: false
 
 ### Working Papers
 
-**1. [The Downside of Winning: Parliamentary Victories and Subsequent State Elections](../files/The_Downside_of_Winning.pdf) (Job market paper)** 
+**1. [The Downside of Winning: Parliamentary Victories and Subsequent State Elections](../files/The_Downside_Of_Winning.pdf) (Job market paper)**
 
 <details>
 <summary><strong>Abstract</strong></summary>

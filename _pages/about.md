@@ -12,4 +12,4 @@ Thank you for visiting my website! I am a PhD candidate in Economics at the Univ
 
 I will be available for employment opportunities beginning in the fall 2026 - spring 2027 recruitment cycle. Please feel free to reach out to me for any inquiries.
 
-Please find my cv [here](files/Academic_cv_Sujoy_Upadhyay.pdf).
+Please find my cv [here](files/Upadhyay_Sujoy_Academic_CV.pdf). 

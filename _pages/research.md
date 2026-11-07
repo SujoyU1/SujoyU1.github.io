@@ -7,7 +7,7 @@ author_profile: false
 
 ### Working Papers
 
-**1. [The Downside of Winning: Parliamentary Victories and Subsequent State Elections](../files/JMP_2026 (3).pdf (Job market paper)**
+**1. [The Downside of Winning: Parliamentary Victories and Subsequent State Elections](../files/JMP_2026_Upadhyay.pdf) (Job market paper)**
 
 <details>
 <summary><strong>Abstract</strong></summary>
@@ -17,8 +17,6 @@ This paper examines whether winning a seat in India’s national parliament help
 </details>
 
 ---
-
-
 
 **2. [Does Vertical Political Alignment Impact Local Economic Growth? Night-Lights Evidence from India](../files/JMP_Paper_Sujoy_Upadhyay.pdf)**  
 [Slides](../files/EARL_Slides.pdf)

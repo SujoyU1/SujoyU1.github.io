@@ -34,8 +34,6 @@ I find that alignment has a precisely estimated zero effect on night-lights grow
 
 ---
 
----
-
 **3. [Can Aggregate Special Items Aid in Predicting Future Inflation?](../files/Special_items_inflation_forecasting.pdf)**  
 (with Arthur Pellenq)
 
